@@ -2,11 +2,11 @@
   🌐 PERSONAL README / PROFILE
 ---------------------------------------------------------------------------- -->
 
-<div align="center">
+<div align="left">
 
   <!-- HERO HEADER -->
   <h1>👋 Hey there, I’m Ajay Jaikrishnan</h1>
-  <p>AI/ML software Engineer Intern @ Wikasta • Open‑Source Contributor • Voice‑Interface and Chatbot-NLP Applications Enthusiast</p>
+  <p>AI & NLP Engineer Intern @ Wikasta • Open‑Source Contributor • Voice‑Interface Enthusiast</p>
 
   <!-- SOCIAL BADGES -->
   <p>
@@ -22,14 +22,14 @@
   </p>
 
   <!-- PROFILE GIF -->
-  <img align="right" width="300" src="" alt="coding GIF"/>
+  <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 </div>
 
 ---
 
 ## 💫 About Me
 
-- 🔭 Here’s my [GitHub Portfolio](https://github.com/ajayjai30)  
+- 🔭 Here’s my Portfolio 
 - 🚀 **Working on**: a subject‑expert AI chatbot with >90% accuracy  
 - 🌱 **Learning**: advanced prompt engineering, LLM fine‑tuning & real‑time voice interfaces  
 - 🤝 **Collaborating on**: open‑source semantic search & knowledge retrieval  
@@ -40,29 +40,17 @@
 
 ### I code in
 
-<img height="40" src="https://img.icons8.com/color/48/000000/python.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/c-programming.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/r-project.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/tensorflow.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/pytorch.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/opencv.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/scikit-learn.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/numpy.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/pandas.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/plotly.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <img width="50" height="50" src="https://img.icons8.com/fluency/50/r-project.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pytorch.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/opencv.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/scikit-learn.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/numpy.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pandas.png"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/plotly.png"/>
 
 ---
 
 ### IDE & Tools I Use
 
-<img height="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/pycharm.png"/>  
-<img height="40" src="https://img.icons8.com/color/48/000000/git.png"/>  
-<img height="40" src="https://img.icons8.com/dusk/64/000000/docker.png"/>  
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/docker.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/streamlit.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>  
+
 
 ---
-
 
 ## 💻 Tech Stack
 
@@ -100,8 +88,6 @@
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![PgVector](https://img.shields.io/badge/PgVector-336791?style=flat&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 </p>
