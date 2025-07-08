@@ -81,7 +81,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-556EE6?style=flat&logo=graphviz&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-1D1F21?style=flat&logo=ollama&logoColor=white)
-![Qwen](https://img.shields.io/badge/Qwen-0F1419?style=flat&logo=qwen&logoColor=white)
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
