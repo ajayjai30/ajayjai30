@@ -6,7 +6,7 @@
 
   <!-- HERO HEADER -->
   <h1>👋 Hey there, I’m Ajay Jaikrishnan</h1>
-  <p>AI & NLP Engineer Intern @ Wikasta • Open‑Source Contributor • Voice‑Interface Enthusiast</p>
+  <p>AI/ML Software Engineer Intern @ Wikasta, AI Engineer Intern @ Zetheta algorithms</p>
 
   <!-- SOCIAL BADGES -->
   <p>
