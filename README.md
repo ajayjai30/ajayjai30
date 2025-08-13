@@ -6,7 +6,7 @@
 
   <!-- HERO HEADER -->
   <h1>👋 Hey there, I’m Ajay Jaikrishnan</h1>
-  <p><strong>AI/ML Software Engineer Intern @ Wikasta, AI Engineer Intern @ Zetheta algorithms</strong></p>
+  <p><strong>AI Developer & Data Science enthusiasist| Inovator@GCP | Ex-GetMax Healthcare | Ex-DYNX Technologies | Building Intelligent Solutions | From Chatbots to Healthcare Analytics | Passionate about ML,NLP,GenAI,LLM's</strong></p>
 
   <!-- SOCIAL BADGES -->
   <p>
