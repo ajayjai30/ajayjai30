@@ -29,6 +29,15 @@
 
 ## 💫 About Me
 
+
+
+
+
+
+
+
+
+
 - 🔭 Here’s my Portfolio  
 - 🚀 **Working on**: a subject‑expert AI chatbot with >90% accuracy  
 - 🌱 **Learning**: advanced prompt engineering, LLM fine‑tuning & real‑time voice interfaces  
